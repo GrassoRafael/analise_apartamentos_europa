@@ -18,5 +18,5 @@ Foi definido que o range da avaliação seria feito em imóveis que o preço do 
 ![image](https://github.com/GrassoRafael/case1_da_dnc/assets/150485894/86e4005a-b7d9-46e3-bb51-231374b8c047)
 
 # Bibliotecas usadas:
-  Pandas
-  Seaborn
+  1. Pandas
+  2. Seaborn
