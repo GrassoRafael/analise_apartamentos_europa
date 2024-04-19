@@ -1,6 +1,6 @@
 # Case 1 data analysis escola DNC
 
-# Case baseado em respostas para perguntas de negócios relacionados ao negócio imobiliário de duas cidades da Europa, temos várias informações relevantes, como preço do aluguel, taxas, tamanho do imóvel e quantidade de quartos, por exemplo.
+Este projeto visa desenvolver um sistema de apoio à decisão para o setor imobiliário, com foco em duas cidades europeias específicas. O sistema será uma ferramenta abrangente para auxiliar compradores, vendedores e investidores na tomada de decisões informadas relacionadas a propriedades imobiliárias.
 
 Premissas de negócio:
 As premissas foram sendo desenvolvidas o longo do case, para responder perguntas variads que vinham surgindo, trazendo representações em formas de gráficos e tabelas. 
